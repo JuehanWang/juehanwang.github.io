@@ -1,6 +1,6 @@
 
 ---
-title: "PM566 Final Project Home"
+title: "PM566 Final Project Home should edit"
 author: "Juehan Wang"
 output: 
     html_document:
@@ -35,4 +35,5 @@ opts_chunk$set(
   fig.asp = 0.618,
   out.width = "700px")
 ```
+
 

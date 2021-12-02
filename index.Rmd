@@ -1,6 +1,6 @@
 
 ---
-title: "PM566 Final Project Home"
+title: "PM566 Final Project Home should edit"
 author: "Juehan Wang"
 output: 
     html_document:
